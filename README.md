@@ -3,6 +3,8 @@ All my script related to gats.io
 ___
 I quit gats on 6/22/2021. This repo contains all the scripts I wrote in my gats time. Some work, some don't, some are outdated. Enjoy.
 ___
+If you have noticed I used a sript that isn't on here, open an issue to let me know so I can add it.
+___
 # Scripts
 | Name | Description |
 | ---- | ----------- |
