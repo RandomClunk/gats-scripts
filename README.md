@@ -14,3 +14,4 @@ ___
 | better-layers.user.js | A tampermonkey script that changes the render order of some objects in game. Was useful for me. |
 | bots-captcha.js | Bots that can connect even with captcha. + general improvements from v1. |
 | bots-node.js | NodeJS version of my v1 bots. You could bypass server detection by specifying a user-agent header. This is what I used for my 703 killstreak on my KSRandomness account, my very first mass bot usage. Doesn't work anymore as its bots v1 (broken by dynamic server urls). This does need a client script to control the bots on the server but I cannot find it ATM. |
+| leaderboard-fetcher.js | Uses my v2 bots to create a global leaderboard (take leaderborad of all servers and combine them). This can be used to view all online players, find people with streaks/high scores, find a specific player and what server they are in, and much more. |
