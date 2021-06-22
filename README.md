@@ -7,3 +7,4 @@ ___
 | Name | Description |
 | ---- | ----------- |
 | bots.js | Earliest version of my bots. Stopped working once captcha was added because they moved to dynamic server urls. |
+| hack.js | Earliest version of my hack. Contains a chatlogger but doesn't work anymore since the dynamic server urls. |
