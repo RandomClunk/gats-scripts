@@ -8,4 +8,5 @@ ___
 | ---- | ----------- |
 | bots.js | Earliest version of my bots. Stopped working once captcha was added because they moved to dynamic server urls. |
 | hack.js | Earliest version of my hack. Contains a chatlogger but doesn't work anymore since the dynamic server urls. |
-| killfeed.js | A design prototype of a killfeed system. Abandonned because noone was willing to use the client script (because they didn't trust me) which is required for it to function |
+| killfeed.js | A design prototype of a killfeed system. Abandonned because noone was willing to use the client script (because they didn't trust me) which is required for it to function. |
+| archiver.js | The script used to take map archives present in my `gats.io` repo. When you run it, you need to walk across the entire map to load all 750 walls after which you can JSON.stringify. |
