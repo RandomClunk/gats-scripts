@@ -12,3 +12,4 @@ ___
 | archiver.js | The script used to take map archives present in my `gats.io` repo. When you run it, you need to walk across the entire map to load all 750 walls after which you can JSON.stringify. |
 | multiboxing.user.js | A tampermonkey script which allows you to multibox gats tabs. Recently, the connections per ip limit made it useless. To use, open 2 tabs on the same server. With 1 tab, goto the other tab's position in game and stack yourself on your other player. On each tab, press q to toggle syncing. You can see if a tab is syncing at the top right cornor. If gats gets an update that reduces max connections per ip to 1, it will be because of this. |
 | better-layers.user.js | A tampermonkey script that changes the render order of some objects in game. Was useful for me. |
+| bots-captcha.js | Bots that can connect even with captcha. + general improvements from v1. |
